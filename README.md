@@ -1,6 +1,6 @@
 
 A look into a bike sharing service dataset.  SQL and PowerBI 
-# Project 4 : [Bike-Service-Exploration](https://github.com/MichaelR98/Covid-Portfolio-Project) 
+# Project 4 : [Bike-Service-Exploration](https://github.com/MichaelR98/Bike-Service-Exploration) 
 ## Dataset provided by the Google Data Analytics Program
 ### Project Goals
 * Breakdown the current customer base for a bike sharing company by gender, usertype and age
